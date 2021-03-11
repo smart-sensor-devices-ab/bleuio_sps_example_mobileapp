@@ -1,0 +1,7 @@
+{
+  "name": "bleuiosendmsg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
